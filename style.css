@@ -36,7 +36,7 @@ header h1{
     margin: 0;
     padding-top: 20px;
     width: 100%;
-    font-size: 28px;
+    font-size: 20px;
     font-family: 'Montserrat', 'sans-serif';
     text-align: center;
     border-top: none;
@@ -146,7 +146,7 @@ div.pictures img{
 }
 
 
-/*è‡ªå·±ç´¹ä»‹*/
+
 #self_intro{
     overflow: hidden;
 }
@@ -162,7 +162,7 @@ div.pictures img{
     font-size: 30px;
 }
 
-/*çµŒæ­´*/
+
 
 #history table{
     margin: 0 auto;

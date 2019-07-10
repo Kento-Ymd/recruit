@@ -42,10 +42,9 @@ header h1{
     border-top: none;
 }
 .header_icon a{
-    text-decoration: none;
     display: inline-block;
     height: 80px;
-    width: 250px;
+    width: 350px;
     position: absolute;
 }
 header p{
@@ -59,7 +58,7 @@ header p{
 nav{
     float: right;
     height: 80px;
-    width: 70%;
+    width: 60%;
 }
 nav ul{
     list-style: none;

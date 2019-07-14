@@ -1,5 +1,6 @@
 body{
-    color: #444;
+    color: #FFFFDD;
+    background-color:#666666;
     margin: 0;
     padding: 0;
     line-height: 150%;
@@ -23,7 +24,7 @@ header{
     height: 80px;
     margin: 0;
     padding: 0;
-    border-bottom: solid black 1px;
+    border-bottom: solid white 1px;
 }
 .header_icon{
     height: 80px;
@@ -74,19 +75,19 @@ nav li{
     line-height: 80px;
     width: 18%;
     text-align: center;
-    border-left: solid #666 1px;
+    border-left: solid white 1px;
 }
 nav li:hover{
-    background-color: #eee;
-    transition: 0.3s;
+    background-color: white;
+    transition: 0.4s;
 }
 .last_li{
-    border-right: solid #666 1px;
+    border-right: solid white 1px;
 }
 nav li a{
     text-decoration: none;
     font-size: 16px;
-    color: #333;
+    color: #FFFFDD;
     display: inline-block;
     width: 100%;
 }
@@ -95,8 +96,8 @@ nav li a{
 
 div.pictures{
     position: relative;
-    width:  100%; /* ç”»åƒã®æ¨ªå¹…ã«åˆã‚ã›ã¦è¨˜è¿° */
-    height: 750px; /* ç”»åƒã®é«˜ã•ã«åˆã‚ã›ã¦è¨˜è¿° */
+    width:  100%; 
+    height: 750px; 
     margin: 0 auto;
  }
 div.pictures img{
@@ -119,32 +120,22 @@ div.pictures img{
 .kento_message a{
     display: inline-block;
     color: white;
-    background-color: #55acee;
+    background-color: #33CCFFee;
     padding: 13px 15px;
     border-radius: 4px;
     font-size: 15px;
     text-decoration: none;
     line-height: 100%;
     margin-left: 10px;
-    box-shadow: 0 3px #000044;
+    box-shadow: 0 3px #0000FF;
 }
 .kento_message a:hover{
-    background-color: #359dec;
+    background-color: #3399FF;
     transition: 0.2s;
 }
 .kento_message span{
     font-size: 20px;
 }
-.The_secret_entrance{
-  position: absolute;
-  top: 100px;
-  right: 400px;
-  padding: 100px 70px;
-  margin: 0;
-  display: inline-block;
-  line-height: 200px;
-}
-
 
 
 #self_intro{
@@ -193,13 +184,12 @@ table td.t_center{
 
 .twitter_wrapper div{
     float: left;
-    width: 31%;
+    width: 33%;
     padding: 10px;
     text-align: center;
 }
 
 
-/*å¼·ã¿*/
 .str_wrapper{
     width: 90%;
     margin: 0 auto;
@@ -217,7 +207,7 @@ table td.t_center{
     min-height: 380px;
 }
 
-/*ãƒ“ã‚¸ãƒ§ãƒ³ãƒ»åº§å³ã®éŠ˜*/
+
 #vision{
     overflow: hidden;
     margin-bottom: 100px;
@@ -238,7 +228,7 @@ table td.t_center{
     text-align: center;
 }
 
-/*ä½œå“é›†*/
+
 #works{
     overflow: hidden;
 }
@@ -280,7 +270,7 @@ table td.t_center{
     transition: 0.3s;
 }
 
-/*ã‚³ãƒ³ã‚¿ã‚¯ãƒˆ*/
+
 #contact a{
     display: inline-block;
     width: 80%;
@@ -309,7 +299,7 @@ table td.t_center{
 
 
 
-/*ãƒ•ãƒƒã‚¿ãƒ¼*/
+
 footer{
     color: #444;
     text-align: center;
@@ -321,7 +311,7 @@ footer a{
 }
 
 
-/*contact.php*/
+
 #formform{
     width: 70%;
     margin: 0 auto;
@@ -361,7 +351,7 @@ form input[type="submit"]:hover{
     cursor: pointer;
 }
 
-/*complete.php*/
+
 #complete h1{
     border-top: none;
 }

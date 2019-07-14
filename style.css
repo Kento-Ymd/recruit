@@ -24,7 +24,7 @@ header{
     height: 80px;
     margin: 0;
     padding: 0;
-    border-bottom: solid white 1px;
+    border-bottom: solid #FFFFDD 1px;
 }
 .header_icon{
     height: 80px;
@@ -75,14 +75,14 @@ nav li{
     line-height: 80px;
     width: 18%;
     text-align: center;
-    border-left: solid white 1px;
+    border-left: solid #FFFFDD 1px;
 }
 nav li:hover{
-    background-color: white;
+    background-color: #FFFFDD;
     transition: 0.4s;
 }
 .last_li{
-    border-right: solid white 1px;
+    border-right: solid #FFFFDD 1px;
 }
 nav li a{
     text-decoration: none;
@@ -110,7 +110,7 @@ div.pictures img{
     top: 300px;
     left: 50px;
     font-size: 15px;
-    color: #eee;
+    color: #FFFFDD;
     line-height: 35px;
 }
 .kento_message h1{
@@ -119,7 +119,7 @@ div.pictures img{
 }
 .kento_message a{
     display: inline-block;
-    color: white;
+    color: #FFFFDD;
     background-color: #33CCFFee;
     padding: 13px 15px;
     border-radius: 4px;
@@ -156,6 +156,7 @@ div.pictures img{
 
 
 #history table{
+    color:#666666;
     margin: 0 auto;
     width: 80%;
     font-size: 18px;
@@ -196,6 +197,7 @@ table td.t_center{
     overflow: hidden;
 }
 .str{
+    color:#666666;
     float: left;
     width: 32%;
     background-color: #eee;

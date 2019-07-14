@@ -185,7 +185,7 @@ table td.t_center{
 
 .twitter_wrapper div{
     float: left;
-    width: 33%;
+    width: 28%;
     padding: 10px;
     text-align: center;
 }
@@ -199,79 +199,15 @@ table td.t_center{
 .str{
     color:#666666;
     float: left;
-    width: 32%;
+    width: 30%;
     background-color: #eee;
     text-align: center;
     margin: 5px;
-    padding: 15px;
+    padding: 10px;
     box-sizing: border-box;
     border-radius: 10px;
-    min-height: 380px;
+    min-height: 280px;
 }
-
-
-#vision{
-    overflow: hidden;
-    margin-bottom: 100px;
-}
-#vision img{
-    width: 40%;
-    border-radius: 20px;
-    float: right;
-    height: 700px;
-}
-#vision div{
-    width: 55%;
-    float: left;
-    margin-bottom: 30px;
-}
-#vision h2{
-    font-size: 30px;
-    text-align: center;
-}
-
-
-#works{
-    overflow: hidden;
-}
-#works img{
-    width: 50%;
-    border-radius: 20px;
-    float: left;
-}
-#works h1{
-    margin-bottom: 80px;
-}
-#works div{
-    float: right;
-    width: 45%;
-    margin-bottom: 50px;
-    margin-top: 50px;
-}
-#works div h2{
-    font-size: 30px;
-}
-#works input.button{
-    width: 80%;
-    height: 150px;
-    border-radius: 200px;
-    font-size: 30px;
-    color: #33aef5;
-    background-color: white;
-    border: solid #31a3e6 2px;
-    display: block;
-    margin: 0 auto;
-    margin-top: 100px;
-}
-
-#works input.button:hover{
-    cursor: pointer;
-    color: white;
-    background-color: #33aef5;
-    border: solid #31a3e6 2px;
-    transition: 0.3s;
-}
-
 
 #contact a{
     display: inline-block;
@@ -303,13 +239,13 @@ table td.t_center{
 
 
 footer{
-    color: #444;
+    color: #FFFFDD;
     text-align: center;
-    border-top: solid #999 1px;
+    border-top: solid #FFFFDD 1px;
     padding: 20px;
 }
 footer a{
-    color: #444;
+    color: #FFFFDD;
 }
 
 

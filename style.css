@@ -138,18 +138,18 @@ div.pictures img{
 }
 
 
-#self_intro{
+#introduction{
     overflow: hidden;
 }
-#self_intro img{
+#introduction img{
     width: 40%;
     border-radius: 20px;
 }
-#self_intro div{
+#introduction div{
     width: 55%;
     float: right;
 }
-#self_intro h2{
+#introduction h2{
     font-size: 30px;
 }
 
@@ -191,22 +191,40 @@ table td.t_center{
 }
 
 
-.str_wrapper{
-    width: 90%;
-    margin: 0 auto;
-    overflow: hidden;
-}
-.str{
+
+
+.str_hobby{
     color:#666666;
-    float: left;
-    width: 30%;
-    background-color: #eee;
+    float: center;
+    width: 100%;
     text-align: center;
     margin: o auto;
     padding: 10px;
-    box-sizing: border-box;
     border-radius: 10px;
-    min-height: 300px;
+}
+
+.sports{
+    color:#666666;
+    text-align: center;
+    padding-top:180px;
+    padding-bottom:100px;
+    background-image:url(sports.jpg);
+}
+
+.coffee{
+    color:#666666;
+    text-align: center;
+    padding-top:180px;
+    padding-bottom:100px;
+    background-image:url(coffee.jpg);
+}
+
+.music{
+    color:#666666;
+    text-align: center;
+    padding-top:180px;
+    padding-bottom:100px;
+    background-image:url(music.jpg);
 }
 
 #contact a{

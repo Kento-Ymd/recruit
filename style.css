@@ -230,24 +230,9 @@ table td.t_center{
     background-size: auto
 }
 
-#contact a{
-    display: inline-block;
-    width: 80%;
-    height: 150px;
-    line-height: 150px;
-    border-radius: 200px;
-    font-size: 30px;
-    color: #fdb86a;
-    background-color: white;
-    border: solid #fdab3f 2px;
-    display: block;
-    margin: 0 auto;
-    margin-top: 100px;
-    text-align: center;
-    text-decoration: none;
-}
 
-#contact a:hover{
+
+#contact input:hover{
     cursor: pointer;
     color: white;
     background-color: #fdb86a;

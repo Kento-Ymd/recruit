@@ -139,10 +139,23 @@
         <h1>コンタクト</h1>
     
         <div id="contact">
-            <h2>山田に連絡！</h2>
-            <p>もし僕に興味を持っていただけたのなら、とても嬉しいです！<br>
-                ぜひお話ししたいため、ご連絡お待ちしています！</p>
-            
+            <h2>山田にオファー！</h2>
+            <p>山田に興味を持っていただけた方は以下のフォームにご記入ください。</p>
+            <form method="POST" action="complete.html">
+                    <p class="req">企業名・個人名</p>
+                    <input name="name" required/>＊必須項目
+                    
+                    <p class="req">電話番号</p>
+                    <input placeholder="半角数字" name="phonenumber" pattern="^[0-9]+$" required/>＊必須項目
+
+                    <p class="req">メールアドレス</p>
+                    <input placeholder="例)xxxxxxxxx@abc.com" name="adress"  required/>＊必須項目
+                    
+                    <p>備考</p>
+                    <textarea name="other"></textarea>
+        
+                    <input type="submit" value="送信">
+            </form>        
         </div>
     </section>
 

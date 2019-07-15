@@ -118,6 +118,7 @@ div.pictures img{
     border-top: none;
 }
 .kento_message a{
+    float:right;
     display: inline-block;
     color: #FFFFDD;
     background-color: #33CCFFee;
@@ -127,14 +128,11 @@ div.pictures img{
     text-decoration: none;
     line-height: 100%;
     margin-left: 10px;
-    box-shadow: 0 3px #0000FF;
+    box-shadow: 0 1px #3399FF;
 }
 .kento_message a:hover{
     background-color: #3399FF;
     transition: 0.2s;
-}
-.kento_message span{
-    font-size: 20px;
 }
 
 
@@ -234,9 +232,9 @@ table td.t_center{
 
 #contact input:hover{
     cursor: pointer;
-    color: white;
-    background-color: #fdb86a;
-    border: solid #fdab3f 2px;
+    color: #666666;
+    background-color: white;
+    border: solid #FFFFDD 2px;
     transition: 0.3s;
 }
 

@@ -194,7 +194,7 @@ table td.t_center{
 
 
 .str_hobby{
-    color:#666666;
+    color:#FFFFDD;
     float: center;
     width: 100%;
     text-align: center;
@@ -204,27 +204,30 @@ table td.t_center{
 }
 
 .sports{
-    color:#666666;
+    color:#FFFFDD;
     text-align: center;
     padding-top:180px;
     padding-bottom:100px;
     background-image:url(sports.jpg);
+    background-size: auto
 }
 
 .coffee{
-    color:#666666;
+    color:#FFFFDD;
     text-align: center;
     padding-top:180px;
     padding-bottom:100px;
     background-image:url(coffee.jpg);
+    background-size: auto
 }
 
 .music{
-    color:#666666;
+    color:#FFFFDD;
     text-align: center;
     padding-top:180px;
     padding-bottom:100px;
     background-image:url(music.jpg);
+    background-size: auto
 }
 
 #contact a{

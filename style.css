@@ -78,6 +78,7 @@ nav li{
     border-left: solid #FFFFDD 1px;
 }
 nav li:hover{
+    color:#666666;
     background-color: #FFFFDD;
     transition: 0.4s;
 }

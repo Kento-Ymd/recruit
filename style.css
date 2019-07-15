@@ -200,7 +200,7 @@ table td.t_center{
 }
 
 .twitter_wrapper div{
-    float: left;
+    float: center;
     width: 28%;
     padding: 10px;
     text-align: center;
@@ -212,7 +212,7 @@ table td.t_center{
 .str_hobby{
     color:#FFFFDD;
     float: center;
-    width: 80%;
+    width: 100%;
     text-align: center;
     margin: o auto;
     padding: 10px;

@@ -73,7 +73,7 @@ nav ul{
 nav li{
     float: left;
     line-height: 80px;
-    width: 18%;
+    width: 20%;
     text-align: center;
     border-left: solid #FFFFDD 1px;
 }
@@ -81,7 +81,24 @@ nav li:hover{
     background-color: #FFFFDD;
     transition: 0.4s;
 }
+.intro_li{
+    background-color: #FF773E;
+}    
+
+.history_li{
+    background-color: #FFFF55;
+}   
+
+.hobby_li{
+    background-color: #008080;
+}   
+
+.sns_li{
+    background-color: #00FFFF;
+}  
+
 .last_li{
+    background-color: #6600CC;
     border-right: solid #FFFFDD 1px;
 }
 nav li a{

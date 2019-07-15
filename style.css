@@ -95,7 +95,7 @@ nav li:hover{
 }   
 
 .sns_li{
-    background-color: #00FFFF;
+    background-color: #33CCFF;
 }  
 
 .last_li{
@@ -212,7 +212,7 @@ table td.t_center{
 .str_hobby{
     color:#FFFFDD;
     float: center;
-    width: 100%;
+    width: 80%;
     text-align: center;
     margin: o auto;
     padding: 10px;
@@ -222,7 +222,7 @@ table td.t_center{
 .sports{
     color:#FFFFDD;
     text-align: center;
-    padding-top:100px;
+    padding-top:50px;
     padding-bottom:100px;
     background-image:url(sports.jpg);
     background-size: auto
@@ -231,7 +231,7 @@ table td.t_center{
 .coffee{
     color:#FFFFDD;
     text-align: center;
-    padding-top:100px;
+    padding-top:50px;
     padding-bottom:100px;
     background-image:url(coffee.jpg);
     background-size: auto
@@ -240,7 +240,7 @@ table td.t_center{
 .music{
     color:#FFFFDD;
     text-align: center;
-    padding-top:100px;
+    padding-top:50px;
     padding-bottom:100px;
     background-image:url(music.jpg);
     background-size: auto

@@ -200,7 +200,7 @@ table td.t_center{
 }
 
 .twitter_wrapper div{
-    float: center;
+    float: left;
     width: 28%;
     padding: 10px;
     text-align: center;

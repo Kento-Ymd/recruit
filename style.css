@@ -202,11 +202,11 @@ table td.t_center{
     width: 30%;
     background-color: #eee;
     text-align: center;
-    margin: 5px;
+    margin: o auto;
     padding: 10px;
     box-sizing: border-box;
     border-radius: 10px;
-    min-height: 280px;
+    min-height: 300px;
 }
 
 #contact a{
